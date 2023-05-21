@@ -1,0 +1,45 @@
+body{
+    background-image: url(pic2.jpg);background-repeat: no-repeat;background-size: cover;
+color: white;
+}
+.container {
+    max-width: 400px;
+    margin-top: 5%;
+    padding: 20px;
+    border: none;
+    border-radius: 12px;
+    background-color:#0B7739;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 12px;border: none;
+    background-color: #06271C;
+    color: white;
+}
+
+.btn-calculate {
+    background-color: #269F42;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bolder;
+    color: white;
+    background-color: #06271C;
+    border-radius: 12px;
+    padding: 10px;
+}
